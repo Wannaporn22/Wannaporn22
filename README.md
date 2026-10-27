@@ -13,7 +13,7 @@
 
 ```text
 🌸 ชื่อ          : วรรณพร (Wannaporn)
-🐣 ชื่อเล่น      : แตงกวา (Tangkwa)
-🎓 สถานะ      : กำลังศึกษา / สนใจด้าน Web Development
+🐣 ชื่อเล่น       : แตงกวา (Tangkwa)
+🎓 สถานะ       : กำลังศึกษา / สนใจด้าน Web Development
 🎨 สิ่งที่ชอบ     : เรียนรู้สิ่งใหม่ๆ
-💌 ช่องทางติดต่อ : taengkwa2203@gmail.com 
+💌 ช่องทางติดต่อ : https://www.instagram.com/tk_wannapxrn?cplk=ZWw3b3pvMnVuYTVs&utm_source=qr
